@@ -7,6 +7,6 @@ This is a Node/Express/MongoDB REST API for FOMS that uses JWT authentication.
 Clone The Project
 
 ```bash
-  npm install
-  npm run server # Runs on http://localhost:5000
+  yarn install
+  yaern start # Runs on http://localhost:8084
 ```
